@@ -1,15 +1,14 @@
 CIS 440 Personal Project
 ===============
-Client:       602SouthWest
+Client:       602SouthWest 
 Deliverable:  602SouthWest Website
 URL:          http://602southwest.wordpress.com
 
 Showcasing a Wordpress Website and Benefits for a Local Business
-===============
+
 
 
 How I designed the site
-==============
 - removed comment box in bottom of pages to more resemble a website rather than a blog
 - added an instagram widget linked to the 602SouthWest Instagram account, displaying the 2 most recent images posted.
 - facebook like box added: connecting social media page of 602SouthWest to the website. 
