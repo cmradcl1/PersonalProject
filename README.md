@@ -1,8 +1,6 @@
 CIS 440 Personal Project
 ===============
-A professional Wordpress website for 602SouthWest Photography
-
-Showcasing a Wordpress Website and Benefits for a Local Business
+A professional Wordpress website for 602SouthWest Photography showcasing how a wordpress website can benefit a local business.
 
 http://602southwest.wordpress.com
 
