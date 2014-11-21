@@ -1,12 +1,10 @@
 CIS 440 Personal Project
 ===============
-Client:       602SouthWest 
-Deliverable:  602SouthWest Website
-URL:          http://602southwest.wordpress.com
+A professional Wordpress website for 602SouthWest Photography
 
 Showcasing a Wordpress Website and Benefits for a Local Business
 
-
+http://602southwest.wordpress.com
 
 How I designed the site
 - removed comment box in bottom of pages to more resemble a website rather than a blog
