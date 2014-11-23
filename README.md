@@ -32,7 +32,17 @@ Steps Taken:
 
 Testing
 --------------
+Since wordpress's functionality is not handled by its users, i decided to use mobile.me to test the website on mobile platforms. The links below will take you to a live test.
 - iPhone5: http://mobt.me/3lXL
 - Nokia Lumina: http://mobt.me/3lZW
 - iPad Mini: http://mobt.me/3la0
+
+Screenshots of tests
+-------------------
+iPhone5
+![mobile test](https://raw.githubusercontent.com/cmradcl1/PersonalProject/master/Screenshots/mobile1.jpg)
+Nokia Lumina
+![mobile test2](https://raw.githubusercontent.com/cmradcl1/PersonalProject/master/Screenshots/mobile2.jpg)
+iPad Mini
+![mobile test3](https://raw.githubusercontent.com/cmradcl1/PersonalProject/master/Screenshots/mobile3.jpg)
 
