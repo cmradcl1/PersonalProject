@@ -32,5 +32,7 @@ Steps Taken:
 
 Testing
 --------------
-iPhone5 Test: http://mobt.me/3lXL
+iPhone5: http://mobt.me/3lXL
+Nokia Lumina: http://mobt.me/3lZW
+iPad Mini: http://mobt.me/3la0
 
