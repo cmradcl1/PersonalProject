@@ -30,3 +30,7 @@ Steps Taken:
 - added an instagram widget linked to the 602SouthWest Instagram account that will be displaying the 2 most recent images posted. widget is set to be present on every page of the website.
 - facebook like box added as a widget that will be present on every page of the website. goal of this was that if we can get potential clients to "like" 602SouthWest on facebook, we have a greater precentage of receiving their business.
 
+Testing
+--------------
+iPhone5 Test: http://mobt.me/3lXL
+
