@@ -10,7 +10,7 @@ Explination
 -------------
 For my group project, our client was SkyTouch Technologies and after solidifying what they wanted, my group and I were able to dig into Wordpress to better understand how it works and its features. Prior to our client selecting wordpress, our group had minimal experience using it (personally I had none).
 
-Therefore, for my personal project I chose to design and implement an entirely new website for another business. I wanted to be able to showcase how i've gone from knowing nothing of wordpress to successfully producing a website and design that is effective from scratch.
+Therefore, for my personal project I chose not to create an aspact of the site differently for this deliverable, rather i chose to design and implement an entirely new website for another business. I wanted to be able to showcase how i've gone from knowing nothing of wordpress to successfully producing a website and design that is effective from scratch.
 
 Design
 -------------
@@ -37,7 +37,7 @@ Since wordpress's functionality is not handled by its users, i decided to use mo
 - Nokia Lumina: http://mobt.me/3lZW
 - iPad Mini: http://mobt.me/3la0
 
-Screenshots of tests
+Screenshots of Tests
 -------------------
 iPhone5
 ![mobile test](https://raw.githubusercontent.com/cmradcl1/PersonalProject/master/Screenshots/mobile1.jpg)
